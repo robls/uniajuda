@@ -2,7 +2,7 @@
 
 UniAjuda project aims to provide a smoother experience to settle students that recently got into college or university in a new city, all in a mobile application. The project is divided in three parts:
 
-1. [Backend:](<(https://github.com/robls/uniajuda-backend)>) which serves as an Rest API to store and display all project information;
+1. [Backend:](https://github.com/robls/uniajuda-backend) which serves as an Rest API to store and display all project information;
 2. [Web:](https://github.com/robls/uniajuda-front) which serves as panel to administrators of the plataform;
 3. [Mobile:](https://github.com/robls/uniajuda-mobile) main product part, considering this is what users will have access to.
 
@@ -30,7 +30,7 @@ _This is a personal project and with it I'm acquiring new knowledge every single
 
 A UniAjuda visa proporcionar uma experiência mais tranquila para acomodar os alunos que entraram recentemente na faculdade ou universidade em uma nova cidade, tudo em um aplicativo móvel. O projeto é dividido em três principais partes:
 
-1. [Backend:](<(https://github.com/robls/uniajuda-backend)>) API Rest para armazenar e exibir todas as informações do projeto;
+1. [Backend:](https://github.com/robls/uniajuda-backend) API Rest para armazenar e exibir todas as informações do projeto;
 2. [Web:](https://github.com/robls/uniajuda-front) painel administrativo para gerenciamento de entidades;
 3. [Mobile:](https://github.com/robls/uniajuda-mobile) é a parte principal parte do projeto, levando em conta que é ela que será exibida para o usuário.
 
