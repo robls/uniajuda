@@ -1,38 +1,53 @@
-# Uni Ajuda
+# UniAjuda (EN)
 
-### UniAjuda project aims to provide a smoother experience to settle students that recently got into college or university in a new city, all in a mobile application.
+UniAjuda project aims to provide a smoother experience to settle students that recently got into college or university in a new city, all in a mobile application. The project is divided in three parts:
 
-### This web application serves as a panel to privileged users(admins), common users(customers) will have acess to the mobile app.
+1. [Backend:](<(https://github.com/robls/uniajuda-backend)>) which serves as an Rest API to store and display all project information;
+2. [Web:](https://github.com/robls/uniajuda-front) which serves as panel to administrators of the plataform;
+3. [Mobile:](https://github.com/robls/uniajuda-mobile) main product part, considering this is what users will have access to.
 
-### Possible features that will be included
+Also you can find all of my project's [To do's here](https://github.com/users/robls/projects/2)
 
-- List public transportation routes (buses, subways etc...)
+## Features that will be implemented:
 
-- List deals offered by local commerce (markets, drug stores, papercraft shops anything )
+- List public transportation routes (buses, subways etc...);
 
-- List republics looking to house new students or anyone willing to share a rent
+- List deals offered by local commerce (markets, drug stores, papercraft shops anything );
 
-- List any service offered by the city's hall
+- List republics looking to house new students or anyone willing to share a rent;
 
-- List any cultural events happening in the near future
+- List any service offered by the city's hall;
 
-- Also list any real estate in the university's area
+- List any cultural events happening in the near future;
 
-### To do's - FRONTEND
+- Also list any real estate in the university's area.
 
-- [ ] User authentication with JWT
-- [ ] Model proper entities schemas, the current one's are just proofs of concept, I need something that fit's the real world better
-- [ ] Improve UX/UI, it will require some study though.
-- Dynamic breadcrumbs with React, how ?
-- [ ] Is it necessary to build a mobile version of this ?
+_This is a personal project and with it I'm acquiring new knowledge every single day. I honestly think that, based on my college experience, this can be really helpful to it's public if delivered the right way._
 
-### General features to do's list:
+---
 
-- [ ] model and implement backend to republics, local stores, colleges or universities.
-      Here's the [backend repo](https://github.com/robls/uniajuda-backend)
-- [ ] create frontend prototype models on adobexd to the web application that allows admins to manage which goes into the mobile app
-- [ ] create mobile prototype models on adobexd
-- [ ] implement frontend
-- [ ] implement mobile
+# UniAjuda (PT-BR)
 
-This is a personal project and with it I'm acquiring new knowledge every single day. I honestly think that, based on my college experience, this can be really helpful to it's public if delivered the right way.
+A UniAjuda visa proporcionar uma experiência mais tranquila para acomodar os alunos que entraram recentemente na faculdade ou universidade em uma nova cidade, tudo em um aplicativo móvel. O projeto é dividido em três principais partes:
+
+1. [Backend:](<(https://github.com/robls/uniajuda-backend)>) API Rest para armazenar e exibir todas as informações do projeto;
+2. [Web:](https://github.com/robls/uniajuda-front) painel administrativo para gerenciamento de entidades;
+3. [Mobile:](https://github.com/robls/uniajuda-mobile) é a parte principal parte do projeto, levando em conta que é ela que será exibida para o usuário.
+
+Você pode encontrar todos os [To do's do projeto aqui](https://github.com/users/robls/projects/2)
+
+## Funções que serão desenvolvidas:
+
+- Listar rotas de transporte público (ônibus, mêtro e etc...);
+
+- Listar ofertas do comércio local (mercados, vendinhas, papelarias e etc...);
+
+- Listar repúblicas com vagas abertas, assim como pessoas que procuram alguém para dividir moradia;
+
+- Listar serviços oferecidos pela prefeitura;
+
+- Listar eventos culturais promovidos pela prefeitura ou secretaria local;
+
+- Por fim, listar imobiliárias próximas à faculdade ou na mesma cidade.
+
+_Esse é um projeto pessoal e com ele eu adquiro novos conhecimentos todos os dias. Baseado na experiência que tive na faculdade, eu acredito que esse projeto pode ser útil se guiado da maneira correta_
