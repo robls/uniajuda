@@ -22,6 +22,10 @@ Also you can find all of my project's [To do's here](https://github.com/users/ro
 
 - Also list any real estate in the university's area.
 
+**Feel free to suggest anything**
+
+### Contact me on: joao.r.lopesdasilva@gmail.com
+
 _This is a personal project and with it I'm acquiring new knowledge every single day. I honestly think that, based on my college experience, this can be really helpful to it's public if delivered the right way._
 
 ---
@@ -49,5 +53,9 @@ Você pode encontrar todos os [To do's do projeto aqui](https://github.com/users
 - Listar eventos culturais promovidos pela prefeitura ou secretaria local;
 
 - Por fim, listar imobiliárias próximas à faculdade ou na mesma cidade.
+
+**Sinta-se à vontade para sugerir qualquer coisa**
+
+### Contato: joao.r.lopesdasilva@gmail.com
 
 _Esse é um projeto pessoal e com ele eu adquiro novos conhecimentos todos os dias. Baseado na experiência que tive na faculdade, eu acredito que esse projeto pode ser útil se guiado da maneira correta_
